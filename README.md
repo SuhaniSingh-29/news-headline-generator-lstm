@@ -25,6 +25,11 @@ An LSTM-based Sequence-to-Sequence deep learning model to automatically generate
 
 ---
 
+## 📁 Dataset
+⚠️ Note: The dataset used in this project is too large to be included in this repository.
+
+---
+
 ## 📁 Folder Structure
 
 # 📰 News Headline Generator (LSTM - Seq2Seq Model)
